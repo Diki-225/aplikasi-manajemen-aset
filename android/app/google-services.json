@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "209022687442",
+    "project_id": "manajemen-aset-app-lbs7pe",
+    "storage_bucket": "manajemen-aset-app-lbs7pe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209022687442:android:fb4c6b76f8937c8d51f50b",
+        "android_client_info": {
+          "package_name": "com.diki.manajemenasetapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN9iS4MctZS1OoB-jfwUIkqcjsxE7YN_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
